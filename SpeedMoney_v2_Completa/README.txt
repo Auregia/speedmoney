@@ -1,1 +1,0 @@
-Questa è la versione completa di SpeedMoney da caricare su GitHub Pages.
